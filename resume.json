@@ -1,0 +1,212 @@
+{
+  "basics": {
+    "name": "Nicolas A. Botello Jr",
+    "label": "Software Developer",
+    "picture": "",
+    "email": "nbotell2@gmail.com",
+    "phone": "956-251-3434",
+    "website": "http://nicolasbotello.com",
+    "summary": "",
+    "location": {
+      "address": "8809 Wyndum Terrace Trl",
+      "postalCode": "78045",
+      "city": "Laredo",
+      "countryCode": "US",
+      "region": "TX"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "bote796",
+        "url": "https://github.com/bote795"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Nicolas Botello",
+        "url": "https://github.com/bote795"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Verizon",
+      "position": "Networking and Technology IT Internship",
+      "website": "",
+      "startDate": "Summer Seasonal, June 2014",
+      "endDate": "August 2015",
+      "city": "Temple Terrace",
+      "countryCode": "US",
+      "region": "FL",
+      "summary": "",
+      "highlights": [
+        "Implemented shell scripts to store server information into a SQL  Database to allow offshore users to access data in a PHP  Web App that serves 190k users",
+        "Analyzed User Experience (UX) logs of a product with ElasticSearch, Logstash, and Kibana and presented a business proposal to optimize code to save 10k a year in user experience"
+      ]
+    },
+    {
+      "company": "MHMR Authority of Brazos Valley",
+      "position": "Developer",
+      "website": "www.mhmrabv.org/",
+      "city": "Bryan",
+      "countryCode": "US",
+      "region": "TX",
+      "startDate": "April 2015",
+      "endDate": "May 2015",
+      "summary": "",
+      "highlights": [
+        "Developed a ticket management system with a team of 6 following Agile methodology that would allow to enter tickets for maintenance requests",
+        "Incorporated CRUD for different maintenance categories, user emails, and ticket stats system built using Ruby on Rails with PostgreSQL database"
+      ]
+    },
+    {
+      "company": "Texas Department of Transportation",
+      "position": "Engineering Intern",
+      "website": "",
+      "startDate": "January 2011",
+      "endDate": "August 2013",
+      "city": "Laredo",
+      "countryCode": "US",
+      "region": "TX",
+      "summary": "",
+      "highlights": [
+        "Constructed a database for inventory of bed road line patterns and bed road sizes for the Maintenance Department",
+        "Devised macros in Visual Basic for Microsoft Excel for the Design Department to decrease work time by 99.96%"
+      ]
+    }
+  ],
+  "projects": [    
+    {
+      "company": "AnimeTrackerStorage",
+      "position": "Self-Started Project",
+      "website": "",
+      "startDate": "April 2014",
+      "endDate": "Present",
+      "city": "Chrome Extension",
+      "countryCode": "",
+      "region": "",
+      "summary": "",
+      "highlights": [
+        "Designed and developed a chrome extension to keep track of current anime episodes by parsing URLs as user navigates using JavaScript",
+        "Incorporated checks for updates from custom websites using jQuery and Yahoo Query Language(YQL) API"
+      ]
+    },   
+    {
+      "company": "Sunshine",
+      "position": "Self-Started Project",
+      "website": "",
+      "startDate": "February 2015",
+      "endDate": "",
+      "city": "Android",
+      "countryCode": "",
+      "region": "",
+      "summary": "",
+      "highlights": [
+        "Built a weather application using weather API and SQLite 3 for database that displays the local weather"
+      ]
+    },   
+    {
+      "company": "Anime Recommender",
+      "position": "Information Storage and Retrieval",
+      "website": "",
+      "startDate": "November 2014",
+      "endDate": "December 2014",
+      "city": "Web App",
+      "countryCode": "",
+      "region": "",
+      "summary": "",
+      "highlights": [
+        "Developed Anime Recommender implementing Naive Bayes (NLTK package) classifier to recommend Anime",
+        "Scraped webpage using phantomjscloud and stored data in MongoDB to keep a database of upcoming Anime",
+        "Classified using Naïve Bayes in Python while retrieving user information from Anime News Network AP using jQuery and YQL API"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [ {
+      "institution": "Texas A&M University",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "8/27/2012",
+      "endDate": "12/18/2016",
+      "gpa": "3.03",
+      "courses": [ 
+        "CSCE 221 - Data Structures and Algorithms",
+        "CSCE 315 - Programming Studio",
+        "CSCE 470 - Information Storage & Retrival",
+        "CSCE 431 - Software Engineering",
+        "CSCE 420 - Artificial Intelligence",
+        "CSCE 444 - Interactive Information",
+        "CSCE 462 - Microcomputer Systems"
+        ]
+    }],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Basic",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Node.js",
+        "PHP",
+        "Python",
+        "Ruby",
+        "Ruby on Rails",
+        "MEAN Stack"
+      ]
+    },
+    {
+      "name": "Front End Frameworks",
+      "level": "Basic",
+      "keywords": [
+        "AngularJS"
+      ]
+    },
+    {
+      "name": "Programming languages object oriententated",
+      "level": "Basic",
+      "keywords": [
+        "Java",
+        "Visual Basic for Applications "
+      ]
+    },
+    {
+      "name": "Programming languages object oriententated",
+      "level": "Intermediate",
+      "keywords": [
+        "C++"
+      ]
+    },
+    {
+      "name": "version control system",
+      "level": "Intermediate",
+      "keywords": [
+        "Git"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Basic",
+      "keywords": [
+        "MYSQL",
+        "PostgreSQL",
+        "MongoDB"
+      ]
+    }
+
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
