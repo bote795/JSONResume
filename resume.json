@@ -28,7 +28,36 @@
     ]
   },
   "work": [
-
+    {
+      "company": "Interface Ecology Lab",
+      "position": "Undergrad Research with Dr. Andruid Kerne",
+      "website": "http://ecologylab.net/",
+      "startDate": "August 2015",
+      "endDate": "Present",
+      "city": "Texas A&M University",
+      "countryCode": "US",
+      "region": "TX",
+      "summary": "",
+      "highlights": [
+        "Collaborated with a team of 5 in porting IdeaMache, a web app developed by the Ecology Lab, from Django/SQL to Node.js/Mongo/Express/Handlebars/Socket.io to allow for multiple users to interact at once",
+        "Wrote wrappers using XML/XPath using BigSemantics to extract salient metadata from social media websites"
+      ]
+    },    
+    {
+      "company": "AggiE_Challenge",
+      "position": "Undergrad Research with Dr. Bryan Rasmussen",
+      "website": "",
+      "startDate": "August 2015",
+      "endDate": "May 2016",
+      "city": "Texas A&M University",
+      "countryCode": "US",
+      "region": "TX",
+      "summary": "",
+      "highlights": [
+        "Led a team of 4 membersto find sensors and packages in orderto create a dynamic 2D map of the environment",
+        "Leveraged Robot Operating Software (ROS) hector slam package to create a 2D map and used the system to develop packages to communicate with a lighting package being concurrently developed by another team"
+      ]
+    },
     {
       "company": "Verizon",
       "position": "Networking and Technology IT Internship",
@@ -207,11 +236,11 @@
   "languages": [
     {
       "language": "Spanish",
-      "fluency": "Native Speaker"
+      "fluency": "Conversational"
     },
     {
       "language": "English",
-      "fluency": "Native Speaker"
+      "fluency": "Fluent"
     }
   ],
   "interests": [],
