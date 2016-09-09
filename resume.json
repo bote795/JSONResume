@@ -54,7 +54,7 @@
       "region": "TX",
       "summary": "",
       "highlights": [
-        "Led a team of 4 membersto find sensors and packages in orderto create a dynamic 2D map of the environment",
+        "Led a team of 4 members to find sensors and packages in order to create a dynamic 2D map of the environment",
         "Leveraged Robot Operating Software (ROS) hector slam package to create a 2D map and used the system to develop packages to communicate with a lighting package being concurrently developed by another team"
       ]
     },
